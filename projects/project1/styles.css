@@ -1,0 +1,66 @@
+body {
+    font-family: 'Comfortaa', sans-serif !important;
+}
+
+#project-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #9344FF !important;
+    padding: 0%;
+    color: white;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding: 1%;
+}
+#project-title h1 {
+    margin: 0; /* Remove default margin */
+    text-align: center; /* Center the text within the h1 */
+    font-size: 3rem !important;
+}
+
+#A\-Week\-in\-the\-Life\-of\-Twitch\:\-Analyzing\-Streamer\,\-Game\,\-and\-Viewer\-Dynamics {
+    font-size: 3rem;
+}
+
+#By-Nicolas-Michael-Feliz {
+    font-size: 2.2rem;
+    color: black;
+}
+#github-repo {
+    font-size: 1.3rem;
+    color: white;
+    font-weight: bold;
+}
+#github-repo a {
+    color: black;
+}
+.answers {
+    font-size: 1rem;
+    background-color: lightgray;
+    padding: 5px;
+}
+
+#scroll-to-top {
+    font-size: 2rem;
+    background-color: rgb(248, 174, 113);
+    position: fixed;
+    bottom: 2%;   
+    right: 0%;    
+    z-index: 999;   
+    color: #000;                      
+    padding: 10px 15px; 
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+h1 {
+    background-color: rgb(204, 255, 231);
+    padding: 0.5%;
+}
+
+#A\-Week\-in\-the\-Life\-of\-Twitch\:\-Analyzing\-Streamer\,\-Game\,\-and\-Viewer\-Dynamics {
+    background-color: #9344FF !important;
+  }
